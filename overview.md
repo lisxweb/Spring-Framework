@@ -1,4 +1,4 @@
-## 2. Introduction to the Spring Framework
+## 2. Introduction to the Spring Framework
 
 The Spring Framework is a Java platform that provides comprehensive infrastructure support for developing Java applications. Spring handles the infrastructure so you can focus on your application.
 
@@ -11,7 +11,7 @@ Examples of how you, as an application developer, can benefit from the Spring pl
 * Make a local Java method a management operation without having to deal with JMX APIs.
 * Make a local Java method a message handler without having to deal with JMS APIs.
 
-# 2. 介绍 Spring Framework {#介绍-spring-framework-}
+# 2.介绍 Spring Framework {#介绍-spring-framework-}
 
 Spring Framework 是一个提供完善的基础设施用来支持来开发 Java 应用程序的 Java 平台。Spring 负责基础设施功能，而您可以专注于您的应用。
 
