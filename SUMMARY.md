@@ -1,11 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [I. Spring框架概述](yi-ff0c-spring-kuang-jia-gai-shu.md)
-* [
-I. Overview of Spring Framework](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#spring-introduction)
+* [I. Spring框架概述|Overview of Spring Framework]](spring-introduction.md)
 
-* [1. Getting Started with Spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#overview-getting-started-with-spring)
+* [1. Spring Getting Started with Spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#overview-getting-started-with-spring)
 
 * [2. Introduction to the Spring Framework](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#overview)
 
